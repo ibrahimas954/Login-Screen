@@ -1,0 +1,10 @@
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\bin\Debug\To-Do_App.exe.config
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\bin\Debug\To-Do_App.exe
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\bin\Debug\To-Do_App.pdb
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To-Do_App.csprojAssemblyReference.cache
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To_Do_App.Form1.resources
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To_Do_App.Properties.Resources.resources
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To-Do_App.csproj.GenerateResource.cache
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To-Do_App.csproj.CoreCompileInputs.cache
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To-Do_App.exe
+C:\Users\asibr\source\repos\To-Do_App\To-Do_App\obj\Debug\To-Do_App.pdb
